@@ -1,13 +1,11 @@
-// import logo from './logo.svg';
-// import './App.css';
-import LoginPages from './pages/loginpages/loginpages';
-function App() { 
+// import LoginPage from './pages/loginpages/loginpages';
+import StateContador from './playground/useState/useState';
+
+function App() {
   return (
     <>
-    <LoginPages />
-     <LoginPages />
-    <LoginPages />  
-    </> 
+      <StateContador />
+    </>
   );
 }
 
