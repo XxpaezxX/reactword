@@ -1,6 +1,6 @@
 # Proyecto React - Curso de Enseñanza
 
-Este es un proyecto base en *React* creado con *CRA => Create React App*, que incluye:
+Este es un proyecto base en **React** creado con **CRA => Create React App**, que incluye:
 
 - [Bootstrap](https://getbootstrap.com/) para estilos rápidos y responsive.
 - [SweetAlert2](https://sweetalert2.github.io/) para alertas y confirmaciones atractivas.
@@ -9,36 +9,36 @@ Este es un proyecto base en *React* creado con *CRA => Create React App*, que in
 
 ## 🚀 Instalación y ejecución
 
-1. *Crear el proyecto con Create React App*
+1. **Crear el proyecto con Create React App**
     
-    bash
+    ```bash
     npx create-react-app nombre-del-proyecto
-    
+    ```
 
-2. *Ingresar a la carpeta del proyecto*
+2. **Ingresar a la carpeta del proyecto**
     
-    bash
+    ```bash
     cd nombre-del-proyecto
-    
+    ```
 
-3. *Ejecutar el proyecto en modo desarrollo*
+3. **Ejecutar el proyecto en modo desarrollo**
     
-    bash
+    ```bash
     npm start
-    
+    ```
 
 ---
 
 ## 📦 Dependencias instaladas
 
-*Bootstrap*
-bash
+**Bootstrap**
+```bash
 npm install bootstrap
-
-*SweetAlert2*
-bash
+```
+**SweetAlert2**
+```bash
 npm install SweetAlert2
-
+```
 
 ---
 
@@ -46,19 +46,19 @@ npm install SweetAlert2
 
 | Tecnología              | Logo                                                                 | Descripción                                                                                   |
 |------------------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| *HTML5*              | ![HTML5](https://img.icons8.com/color/48/html-5--v1.png)              | Lenguaje de marcado usado para estructurar las páginas web.                                  |
-| *CSS3*               | ![CSS3](https://img.icons8.com/color/48/css3.png)                     | Hojas de estilo para personalizar la apariencia de la web.                                   |
-| *Bootstrap 5*        | ![Bootstrap](https://img.icons8.com/color/48/bootstrap.png)           | Framework CSS para facilitar el diseño responsive y atractivo.                               |
-| *JavaScript*         | ![JS](https://img.icons8.com/color/48/javascript--v1.png)             | Lenguaje de programación para la lógica y la interactividad en la web.                       |
-| *React*              | ![React](https://img.icons8.com/color/48/react-native.png)            | Biblioteca de JavaScript para construir interfaces de usuario basadas en componentes.        |
-| *Create React App*   | ![CRA](https://img.icons8.com/?size=48&id=t9R7H4l3cOyb&format=png)     | Herramienta oficial para crear proyectos React con configuración inicial lista para usar.    |
-| *SweetAlert2*        | ![SweetAlert2](https://img.icons8.com/external-flat-icons-inmotus-design/48/external-alert-user-interface-flat-icons-inmotus-design.png) | Librería JS para mostrar alertas modernas, elegantes y personalizadas. |
+| **HTML5**              | ![HTML5](https://img.icons8.com/color/48/html-5--v1.png)              | Lenguaje de marcado usado para estructurar las páginas web.                                  |
+| **CSS3**               | ![CSS3](https://img.icons8.com/color/48/css3.png)                     | Hojas de estilo para personalizar la apariencia de la web.                                   |
+| **Bootstrap 5**        | ![Bootstrap](https://img.icons8.com/color/48/bootstrap.png)           | Framework CSS para facilitar el diseño responsive y atractivo.                               |
+| **JavaScript**         | ![JS](https://img.icons8.com/color/48/javascript--v1.png)             | Lenguaje de programación para la lógica y la interactividad en la web.                       |
+| **React**              | ![React](https://img.icons8.com/color/48/react-native.png)            | Biblioteca de JavaScript para construir interfaces de usuario basadas en componentes.        |
+| **Create React App**   | ![CRA](https://img.icons8.com/?size=48&id=t9R7H4l3cOyb&format=png)     | Herramienta oficial para crear proyectos React con configuración inicial lista para usar.    |
+| **SweetAlert2**        | ![SweetAlert2](https://img.icons8.com/external-flat-icons-inmotus-design/48/external-alert-user-interface-flat-icons-inmotus-design.png) | Librería JS para mostrar alertas modernas, elegantes y personalizadas. |
 
 ---
 
 ## 📁 Estructura del Proyecto
 
-plaintext
+```plaintext
 /
 ├── public/
 │   ├── index.html            # Plantilla HTML principal de la app
@@ -80,7 +80,7 @@ plaintext
 ├── package-lock.json         # Bloqueo de versiones de dependencias
 └── README.md                 # Documentación del proyecto
 
-
+```
 ---
 
 ## 📅 Avance del Proyecto
@@ -90,6 +90,6 @@ plaintext
 | 1   | 2025-08-15  | Creación del proyecto con CRA                         |
 | 2   | 2025-08-15  | Instalación y configuración de Bootstrap y SweetAlert2 |
 
-> *Nota:* Ir actualizando la tabla con cada cambio o entregable.
+> **Nota:** Ir actualizando la tabla con cada cambio o entregable.
 
 ---
