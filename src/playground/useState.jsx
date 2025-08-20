@@ -17,8 +17,12 @@ function UseStateContador() {
       <h2>Valor del contador = {contador}</h2>
       <button onClick={aumentar}>Aumentar</button>
       <button onClick={disminuir}>Disminuir</button>
-    </div>
-  );
-}
+    <Link to="/hooks">
+    <button>ir a HOOKS general </button>
+    </Link>
 
-export default UseStateContador;
+        </div>
+      );
+    }
+
+    export default UseStateContador;
