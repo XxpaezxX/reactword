@@ -105,9 +105,9 @@ function DashboardPage() {
       <main className="main-content">
         <div>
           <img src={logo} alt="Brilla Logo" className="main-logo" />
-          <h1 className="welcome-title">Welcome to Brilla System</h1>
+          <h1 className="welcome-title">Welcome to paez_shop_oca</h1>
           <p className="welcome-text">
-            Manage your clients, services, and more efficiently!
+            “En paez_shop_oca encontrarás un espacio pensado para ti. Compartimos productos/servicios/proyectos creados con dedicación, enfocados en brindarte valor principal: soluciones prácticas, inspiración, conocimiento, etc.. Nuestro objetivo es ofrecerte una experiencia sencilla, útil y confiable en cada visita.”
           </p>
 
           <p className="welcome-text">
@@ -128,7 +128,7 @@ function DashboardPage() {
       {/* FOOTER */}
       <footer className="footer mt-auto">
         <div className="container">
-          <small>© 2025 Brilla. All rights reserved.</small>
+          <small>© 2025 paez_shop_oca. All rights reserved.</small>
         </div>
       </footer>
     </>

@@ -1,6 +1,6 @@
 /* NAVBAR */
 .dashboard-navbar {
-    background-color: #343a40;
+    background-color: #000000;
     padding: 0.5rem 2rem;
 }
 
@@ -12,8 +12,8 @@
 }
 
 .navbar-dark .navbar-nav .nav-link:hover {
-    background-color: #d4af37;
-    color: #000;
+    background-color: #37c4d4;
+    color: #ffffff;
     text-decoration: none;
 }
 
@@ -30,12 +30,12 @@
 }
 
 .logout-container .logout-link:hover {
-    background-color: #d4af37;
-    color: #000;
+    background-color: #37c4d4;
+    color: #ffffff;
 }
 
 .logout-container .logout-link:hover .user-photo-nav {
-    border: 2px solid #000;
+    border: 2px solid #ffffff;
     transform: scale(1.1);
 }
 
@@ -51,7 +51,7 @@
 
 /* DROPDOWN */
 .navbar-dark .dropdown-menu {
-    background-color: #343a40;
+    background-color: #37c4d4;
     border: none;
 }
 
@@ -62,13 +62,13 @@
 }
 
 .navbar-dark .dropdown-menu .dropdown-item:hover {
-    background-color: #d4af37;
+    background-color: #37c4d4;
     color: #000;
 }
 
 /* MAIN CONTENT */
 .main-content {
-    background: #fff;
+    background: #000000;
     min-height: calc(100vh - 130px);
     display: flex;
     justify-content: center;

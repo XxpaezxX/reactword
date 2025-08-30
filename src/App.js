@@ -6,8 +6,8 @@ import LoginPage from './pages/LoginPage/LoginPage';
 import RegisterPage from './pages/RegisterPage/RegisterPage';
 import ForgotPasswordPage from './pages/ForgotPasswordPage/ForgotPasswordPage';
 import NotFoundPage from  './pages/Components/NotFoundPage';
-
 // Rutas para hooks
+
 import UseStatePlay from './pages/Playground/UseStatePlay';
 import UseEffectPlay from './pages/Playground/UseEffectPlay';
 import UseRefPlay from './pages/Playground/UseRefPlay';
